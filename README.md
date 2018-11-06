@@ -5,3 +5,4 @@ move_7_day.sh = mover arquivos com mais de sete dias de uma determinada pasta pa
 servidores.sh = conecta nos servidores indicados
 bkp_mysql = script basico para backup de bases mysql
 conn_mongodb = informações sobre mongodb
+test_read = test comando read ()
