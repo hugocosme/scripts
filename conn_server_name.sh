@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 #mudar a cor
