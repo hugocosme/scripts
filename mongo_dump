@@ -1,0 +1,2 @@
+use o mongodump para executar um dump da base, caso não tenha usuário, basta executar o comando mongodump que ele ira criar uma pasta chamada dump no diretorio onde você executou o comando.
+mongodump --username user-user --password user-pass --db name-db
