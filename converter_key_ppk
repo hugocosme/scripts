@@ -1,0 +1,5 @@
+#intalar o putyy-tools
+apt install putty-tools -y
+
+#vá até o diretorio onde está sua key geralmente ~/.ssh
+sudo puttygen id_rsa -o id_rsa.ppk -O private
