@@ -1,0 +1,4 @@
+#clonar branch especifica
+git clone -b opencv-2.4 --single-branch https://github.com/Itseez/opencv.git
+
+#dump mongodb
