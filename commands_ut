@@ -2,3 +2,8 @@
 git clone -b opencv-2.4 --single-branch https://github.com/Itseez/opencv.git
 
 #dump mongodb
+#para executar um dump de uma base especifica, quando se tem autenticação.
+mongodump --username user-user --password user-pass --db name-db
+
+#para executar um dump, quando não se tem user e senha.
+mongodump (ele deverá criar uma pasta chamada dump, no diretorio onde você executou o comando)
